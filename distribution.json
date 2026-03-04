@@ -13,7 +13,7 @@
       "description": "cobble Running Minecraft 1.21.1 (Fabric v0.18.4)",
       "icon": null,
       "version": "1.0.0",
-      "address": "localhost",
+      "address": "test.kaele.xyz",
       "minecraftVersion": "1.21.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
