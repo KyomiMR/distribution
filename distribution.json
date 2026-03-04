@@ -6129,17 +6129,6 @@
           }
         },
         {
-          "id": ".gitignore",
-          "name": ".gitignore",
-          "type": "File",
-          "artifact": {
-            "size": 5,
-            "url": "https://pub-9302bb53b6104296bf44c68d3ab4015a.r2.dev/main/servers/cobble-1.21.1/files/shaderpacks/COBBLEVERSE%20-%20Shaders/.gitignore",
-            "MD5": "ce15bb98ad750635e87174959a5d6b8a",
-            "path": "shaderpacks/COBBLEVERSE - Shaders/.gitignore"
-          }
-        },
-        {
           "id": "addedMods.md",
           "name": "addedMods.md",
           "type": "File",
@@ -12000,17 +11989,6 @@
             "url": "https://pub-9302bb53b6104296bf44c68d3ab4015a.r2.dev/main/servers/cobble-1.21.1/files/shaderpacks/COBBLEVERSE%20-%20Shaders/shaders/world1/shadowcomp.csh",
             "MD5": "18ace8a9f12484109b163ce5205321b1",
             "path": "shaderpacks/COBBLEVERSE - Shaders/shaders/world1/shadowcomp.csh"
-          }
-        },
-        {
-          "id": ".gitignore",
-          "name": ".gitignore",
-          "type": "File",
-          "artifact": {
-            "size": 5,
-            "url": "https://pub-9302bb53b6104296bf44c68d3ab4015a.r2.dev/main/servers/cobble-1.21.1/files/shaderpacks/COBBLEVERSE%20-%20Shaders%20(High%20Quality)/.gitignore",
-            "MD5": "ce15bb98ad750635e87174959a5d6b8a",
-            "path": "shaderpacks/COBBLEVERSE - Shaders (High Quality)/.gitignore"
           }
         },
         {
